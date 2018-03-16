@@ -36,7 +36,7 @@ Realicé encuestas y entrevistas presenciales, para saber un poco más del usuar
 
 ### Síntesis
 
-Mediante la técnica del Affinity Mapping podemos procesar de mejor manera los insights y así pude hallar a encontrar los problemas principales.
+Mediante la técnica del Affinity Mapping podimos procesar de mejor manera los insights y así pude hallar a encontrar los problemas principales.
 
 - Mucho de los usuarios, no sabean a donde acudir principalmente.
 - Sienten que lo mas dificil al organizar una fiesta es la música, comida y dxecoración.
@@ -44,7 +44,7 @@ Mediante la técnica del Affinity Mapping podemos procesar de mejor manera los i
 
 ## Business model canvas
 
-![img](assets/docs/11.jpg)
+![img](assets/docs/11.jpeg)
 
 #### User Person
 
@@ -61,27 +61,6 @@ María no lo pensó más y decide ingresar a SpecialDay y encuentra un portal di
 Llegó el día, todo salió muy bien.
 
 
-### Conceptualización
-
-Es aquí donde empezamos a pensar en qué funcionalidad debería tener nuestro MPV.
-
-Aquí algunas ideas.
-
-**Benchmarking**
-
-
-**Brainstorm**
-
-
-
-**Benchmarking**
-
-
-**Brainstorm**
-
-
-
-Es así que se crea el story board para este user person
 
 # Enfiestados
 Muchos de nosotros hemos estado involucrados realizando un día especial, ya sea un cumpleaños, un bautizo, matrimonio, entre otros eventos especiales; todos nos esforzamos en que sea un día único e inolvidable, es por ello que he creado a Special day, una aplicación web que esta diseñada para personas que muchas veces han querido organizar un evento y no les alcanza el tiempo o no saben a donde principalemente acudir y que más chevere que poder realizarlo en un solo lugar en un solo momento y te evitará el estar acercandose a un organizador de eventos,porque te permitirá elegir el lugar, el realizar tus invitaciones, escoger música.
