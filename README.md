@@ -20,6 +20,7 @@ El único requisito es que sea un producto en el que puedas aplicar todo lo apre
 ## Research
 
 Realicé encuestas y entrevistas presenciales, para saber un poco más del usuario al momento de realizar algun evento importante.
+
 <!-- ![img-encuestas](assets/docs/1.png) -->
 ![img-encuestas](assets/docs/2.png)
 <!-- ![img-encuestas](assets/docs/3.png) -->
