@@ -20,7 +20,6 @@ El único requisito es que sea un producto en el que puedas aplicar todo lo apre
 ## Research
 
 Realicé encuestas y entrevistas presenciales, para saber un poco más del usuario al momento de realizar algun evento importante.
-
 <!-- ![img-encuestas](assets/docs/1.png) -->
 ![img-encuestas](assets/docs/2.png)
 <!-- ![img-encuestas](assets/docs/3.png) -->
@@ -59,6 +58,22 @@ Después de definir el problema creamos un arquetipo sobre nuestro ususario con 
 
 #### Problem statements & How might we? & what if...?
 
+![userperson1](assets/img/userperson1.PNG)
+
+### Served Persona
+
+![servedperson](assets/img/servedpersona.JPG)
+
+### Negative Person
+
+![servedperson](assets/img/negative.png)
+
+
+#### Problem statements & How might we? & what if...?
+-  Carlos NECESITA una manera segura PARA comprar pasajes online.
+-  Carlos QUISIERA que el proceso de compra PARA realizar compras online.
+
+![userperson1](assets/img/hmw.jpeg)![userperson1](assets/img/whatif.jpeg)
 
 ### Conceptualización
 
@@ -71,6 +86,18 @@ Aquí algunas ideas.
 
 **Brainstorm**
 
+![funcionalidad1](assets/img/funcionalidad1.jpeg)![funcionalidad1](assets/img/funcionalidad2.jpeg)![funcionalidad1](assets/img/funcionalidad3.jpeg)
+
+**Benchmarking**
+![bench](assets/img/bench1.PNG)
+
+**Brainstorm**
+
+![brain](assets/img/brain1.jpeg)
+
+Es así que se crea el story board para este user person
+
+![problem1](assets/img/storyboard1.PNG)
 
 **Guión Literario**
 
