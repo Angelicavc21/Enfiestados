@@ -42,32 +42,23 @@ Mediante la técnica del Affinity Mapping podemos procesar de mejor manera los i
 - Sienten que lo mas dificil al organizar una fiesta es la música, comida y dxecoración.
 - A la mayoria le gustaria tener un aplicativo web para que pueda ser mucho más rápido.
 
+## Business model canvas
 
+![img](assets/docs/11.jpg)
 
-
-#### User Personas
+#### User Person
 
 Después de definir el problema creamos un arquetipo sobre nuestro ususario con todos los datos recogidos.
 
+María, se siente estresada debido a que sabe que su madre en pocos días cumplirá 50 años, solo le faltan 2 días exactamente y no sabe a donde acudir primero porque desea que sea especial e inolvidable.
 
-### Served Persona
+Ella estuvo buscando información por internet, tenia ideas, mas no contaba con el tiempo disponible para realizarlo, pero recuerda que su Manuel le comentó sobre una página *Enfiestados* en donde puede organizar el catering, música, decoración y más.
 
+María no lo pensó más y decide ingresar a SpecialDay y encuentra un portal dinámico y muy confiable y fácil de usar. 
 
-### Negative Person
+ María mas tranquila empezo hacer sus pedidos y exactamentetodo estuvo listo para el dia tan especial para su mami, 
 
-
-#### Problem statements & How might we? & what if...?
-
-
-### Served Persona
-
-
-### Negative Person
-
-
-
-
-#### Problem statements & How might we? & what if...?
+Llegó el día, todo salió muy bien.
 
 
 ### Conceptualización
@@ -92,21 +83,7 @@ Aquí algunas ideas.
 
 Es así que se crea el story board para este user person
 
-
-**Guión Literario**
-
-María, se siente estresada debido a que sabe que su madre en pocos días cumplirá 50 años, solo le faltan 2 días exactamente y no sabe a donde acudir primero porque desea que sea especial e inolvidable.
-
-Ella estuvo buscando información por internet, tenia ideas, mas no contaba con el tiempo disponible para realizarlo, pero recuerda que su Manuel le comentó sobre una página *SpecialDay* en donde puede organizar el catering, música, decoración y más.
-
-María no lo pensó más y decide ingresar a SpecialDay y encuentra un portal dinámico y muy confiable y fácil de usar. 
-
- María mas tranquila empezo hacer sus pedidos y exactamentetodo estuvo listo para el dia tan especial para su mami, 
-
-Llegó el día, todo salió muy bien.
-
-
-# Special day
+# Enfiestados
 Muchos de nosotros hemos estado involucrados realizando un día especial, ya sea un cumpleaños, un bautizo, matrimonio, entre otros eventos especiales; todos nos esforzamos en que sea un día único e inolvidable, es por ello que he creado a Special day, una aplicación web que esta diseñada para personas que muchas veces han querido organizar un evento y no les alcanza el tiempo o no saben a donde principalemente acudir y que más chevere que poder realizarlo en un solo lugar en un solo momento y te evitará el estar acercandose a un organizador de eventos,porque te permitirá elegir el lugar, el realizar tus invitaciones, escoger música.
 
 
