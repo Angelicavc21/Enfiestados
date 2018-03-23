@@ -38,28 +38,21 @@ Realicé encuestas y entrevistas presenciales, para saber un poco más del usuar
 
 Mediante la técnica del Affinity Mapping podimos procesar de mejor manera los insights y así pude hallar a encontrar los problemas principales.
 
+![img](assets/docs/12.jpg)
+
+# Principales problemas encontrados
+
 - Mucho de los usuarios, no sabean a donde acudir principalmente.
-- Sienten que lo mas dificil al organizar una fiesta es la música, comida y dxecoración.
+- Sienten que lo mas dificil al organizar una fiesta es la música, comida y decoración.
 - A la mayoria le gustaria tener un aplicativo web para que pueda ser mucho más rápido.
 
 ## Business model canvas
 
 ![img](assets/docs/11.jpeg)
 
-#### User Person
+## User Person
 
-Después de definir el problema creamos un arquetipo sobre nuestro ususario con todos los datos recogidos.
-
-María, se siente estresada debido a que sabe que su madre en pocos días cumplirá 50 años, solo le faltan 2 días exactamente y no sabe a donde acudir primero porque desea que sea especial e inolvidable.
-
-Ella estuvo buscando información por internet, tenia ideas, mas no contaba con el tiempo disponible para realizarlo, pero recuerda que su Manuel le comentó sobre una página *Enfiestados* en donde puede organizar el catering, música, decoración y más.
-
-María no lo pensó más y decide ingresar a SpecialDay y encuentra un portal dinámico y muy confiable y fácil de usar. 
-
- María mas tranquila empezo hacer sus pedidos y exactamentetodo estuvo listo para el dia tan especial para su mami, 
-
-Llegó el día, todo salió muy bien.
-
+![img](assets/docs/13.png)
 
 
 # Enfiestados
