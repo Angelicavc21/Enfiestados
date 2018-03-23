@@ -54,6 +54,10 @@ Mediante la técnica del Affinity Mapping podimos procesar de mejor manera los i
 
 ![img](assets/docs/13.png)
 
+# Testing prototyping
+
+![img](assets/docs/14.jpeg)
+
 
 # Enfiestados
 Muchos de nosotros hemos estado involucrados realizando un día especial, ya sea un cumpleaños, un bautizo, matrimonio, entre otros eventos especiales; todos nos esforzamos en que sea un día único e inolvidable, es por ello que he creado a Special day, una aplicación web que esta diseñada para personas que muchas veces han querido organizar un evento y no les alcanza el tiempo o no saben a donde principalemente acudir y que más chevere que poder realizarlo en un solo lugar en un solo momento y te evitará el estar acercandose a un organizador de eventos,porque te permitirá elegir el lugar, el realizar tus invitaciones, escoger música.
